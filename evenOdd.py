@@ -5,7 +5,7 @@ Created on Wed Jun  8 11:03:23 2016
 @author: ericgrimson
 """
 
-x = int(input('Enter an integer: '))
+x = int(input('Enter a Positive integer: '))
 if x%2 == 0:
     print('')
     print('Even')
